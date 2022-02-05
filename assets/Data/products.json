@@ -1,0 +1,62 @@
+[
+    {
+        "ProductId":1,
+        "ProductName":"Pen",
+        "ProductPrice": 10,
+        "Category":"Stationary"
+    },
+    {
+        "ProductId":2,
+        "ProductName":"Pencil",
+        "ProductPrice": 5,
+        "Category":"Stationary"
+    },
+    {
+        "ProductId":3,
+        "ProductName":"NoteBook",
+        "ProductPrice": 50,
+        "Category":"Stationary"
+    },
+    {
+        "ProductId":4,
+        "ProductName":"Scale",
+        "ProductPrice": 15,
+        "Category":"Stationary"
+    },
+    {
+        "ProductId":5,
+        "ProductName":"Car",
+        "ProductPrice": 100,
+        "Category":"Toy"
+    },
+    {
+        "ProductId":6,
+        "ProductName":"Barbie",
+        "ProductPrice": 200,
+        "Category":"Toy"
+    },
+    {
+        "ProductId":7,
+        "ProductName":"Tomato",
+        "ProductPrice": 30,
+        "Category":"Vegetable"
+    },
+    {
+        "ProductId":8,
+        "ProductName":"Potato",
+        "ProductPrice": 25,
+        "Category":"Vegetable"
+    },
+    {
+        "ProductId":9,
+        "ProductName":"Spoons",
+        "ProductPrice": 18,
+        "Category":"Utensils"
+    },
+    {
+        "ProductId":10,
+        "ProductName":"Plates",
+        "ProductPrice": 250,
+        "Category":"Utensils"
+    }
+]
